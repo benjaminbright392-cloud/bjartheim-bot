@@ -1,0 +1,13 @@
+{
+  "King": 100,
+  "Queen": 95,
+  "Emperor": 90,
+  "Prince": 80,
+  "Duke": 75,
+  "Lord": 60,
+  "Legend": 50,
+  "Knight": 30,
+  "Warrior": 15,
+  "Novice": 5,
+  "Exile": 0
+}

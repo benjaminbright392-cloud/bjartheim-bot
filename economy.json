@@ -73,7 +73,8 @@
     "coins": 0,
     "path": "none",
     "hunts": 0,
-    "lastHunt": 0
+    "lastHunt": 0,
+    "exp": null
   },
   "49676346757362@lid": {
     "coins": 0,
@@ -159,7 +160,7 @@
     "path": "none",
     "hunts": 0,
     "lastHunt": 0,
-    "exp": null
+    "exp": 7
   },
   "118816679927895@lid": {
     "coins": 0,
@@ -204,7 +205,7 @@
     "lastHunt": 0
   },
   "status@broadcast": {
-    "exp": 3,
+    "exp": 4,
     "level": 1,
     "coins": 0,
     "title": "Slave"

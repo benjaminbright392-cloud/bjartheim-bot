@@ -1,3 +1,7 @@
+const express = require('express');
+const app = express();
+app.get('/', (req,res) => res.send('BJOHMEIR BOT IS ALIVE'));
+app.listen(process.env.PORT || 3000, () => console.log('Port open'));
 const { default: makeWASocket, useMultiFileAuthState, downloadMediaMessage } = require('@whiskeysockets/baileys')
 const P = require('pino')
 const fs = require('fs')
